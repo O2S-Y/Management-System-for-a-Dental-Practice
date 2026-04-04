@@ -1,0 +1,2 @@
+-- SQL script is the one provided by the user (sgcd.sql)
+-- Place the sgcd.sql script here and run: mysql -u root -p < sql/sgcd.sql
